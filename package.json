@@ -1,0 +1,19 @@
+{
+  "name": "bpm-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diego475/BPM-FID-layout.git"
+  },
+  "author": "Shipulin Sergey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diego475/BPM-FID-layout/issues"
+  },
+  "homepage": "https://github.com/Diego475/BPM-FID-layout#readme"
+}
